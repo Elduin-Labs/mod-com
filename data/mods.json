@@ -1,0 +1,1192 @@
+{
+ "generated": "2026-08-30T17:44:37Z",
+ "org": "Elduin-Labs",
+ "modrinth_user": "ItsElduin",
+ "count": 40,
+ "mods": [
+  {
+   "repo": "organs-mod",
+   "title": "Organs",
+   "cat": "world",
+   "kind": "Health system",
+   "desc": "You have a heart, lungs, a liver and a brain. Different damage injures different organs, and a failing organ changes how you play. They mend slowly with rest and food.",
+   "art": [
+    "........",
+    ".rr..rr.",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    ".rrrrrr.",
+    "..rrrr..",
+    "...rr...",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Survival",
+    "Injury"
+   ],
+   "github": "https://github.com/Elduin-Labs/organs-mod",
+   "stars": 0,
+   "release": {
+    "tag": "v1.1.0",
+    "url": "https://github.com/Elduin-Labs/organs-mod/releases/tag/v1.1.0",
+    "published": "2026-08-29T03:25:52Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/organs-mod/releases/download/v1.1.0/organs-1.1.0.jar",
+    "downloads": 1,
+    "name": "organs-1.1.0.jar"
+   },
+   "modrinth": null
+  },
+  {
+   "repo": "pearlcannon-mod",
+   "title": "Pearl Cannon",
+   "cat": "blocks",
+   "kind": "Block change",
+   "desc": "Dispensers can finally throw ender pearls. Since a dispenser can't teleport itself, its pearls work in reverse: whatever one hits gets dragged back to the dispenser.",
+   "art": [
+    "..cccc..",
+    ".cccccc.",
+    "cccnnccc",
+    "ccnnnncc",
+    "ccnnnncc",
+    "cccnnccc",
+    ".cccccc.",
+    "..cccc.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Dispenser",
+    "Teleport"
+   ],
+   "github": "https://github.com/Elduin-Labs/pearlcannon-mod",
+   "stars": 0,
+   "release": {
+    "tag": "v1.0.1",
+    "url": "https://github.com/Elduin-Labs/pearlcannon-mod/releases/tag/v1.0.1",
+    "published": "2026-08-29T17:33:52Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/pearlcannon-mod/releases/download/v1.0.1/pearlcannon-1.0.1.jar",
+    "downloads": 0,
+    "name": "pearlcannon-1.0.1.jar"
+   },
+   "modrinth": null
+  },
+  {
+   "repo": "ringbongos-mod",
+   "title": "Ring Bong OS",
+   "cat": "blocks",
+   "kind": "Block + OS",
+   "desc": "A wall terminal running Ring Bong OS - ping who is nearby, ring the bong (it pulses redstone too), read world status and scroll the log.",
+   "art": [
+    "uuuuuuuu",
+    "u......u",
+    "u.gggg.u",
+    "u.g..g.u",
+    "u.gggg.u",
+    "u......u",
+    "uuuuuuuu",
+    "..u..u.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Terminal",
+    "Redstone"
+   ],
+   "github": "https://github.com/Elduin-Labs/ringbongos-mod",
+   "stars": 0,
+   "release": {
+    "tag": "v1.0.0",
+    "url": "https://github.com/Elduin-Labs/ringbongos-mod/releases/tag/v1.0.0",
+    "published": "2026-08-29T03:25:39Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/ringbongos-mod/releases/download/v1.0.0/ringbongos-1.0.0.jar",
+    "downloads": 2,
+    "name": "ringbongos-1.0.0.jar"
+   },
+   "modrinth": null
+  },
+  {
+   "repo": "twod-mod",
+   "title": "2D",
+   "cat": "world",
+   "kind": "Game mode",
+   "desc": "Minecraft, flattened. A side-on 2D Minecraft you play inside Minecraft: dig, build, and fall down caves. Press G.",
+   "art": [
+    "iiiiiiii",
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "2D",
+    "Key: G",
+    "Client only"
+   ],
+   "github": "https://github.com/Elduin-Labs/twod-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "babies-mod",
+   "title": "Babies",
+   "cat": "mobs",
+   "kind": "Mob + block",
+   "desc": "Craft a cradle and you have a baby of your own. It follows you, copies whatever you are doing, cries when it is hungry, and grows from a newborn into a child that talks back.",
+   "art": [
+    "...ee...",
+    "..eeee..",
+    ".ekeeke.",
+    ".eeeeee.",
+    "tttttttt",
+    "t.tttt.t",
+    "tttttttt",
+    ".d....d."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Mob",
+    "Cradle"
+   ],
+   "github": "https://github.com/Elduin-Labs/babies-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "spongebob-mod",
+   "title": "Bikini Bottom",
+   "cat": "mobs",
+   "kind": "Mobs",
+   "desc": "Adds SpongeBob, Patrick and Squidward as mobs you can spawn with eggs. Fan-made; not affiliated with Nickelodeon.",
+   "art": [
+    "yyyyyyyy",
+    "yoyyyoyy",
+    "yyyyyyyy",
+    "yyoyyyoy",
+    "yoyyyyyy",
+    "yyyyoyyy",
+    "yyoyyyyy",
+    "yyyyyyyy"
+   ],
+   "versions": [
+    "1.21.8"
+   ],
+   "tags": [
+    "Spawn eggs",
+    "Fan-made"
+   ],
+   "github": "https://github.com/Elduin-Labs/spongebob-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "bingbong-mod",
+   "title": "Bing Bong Boom Boom Bam",
+   "cat": "blocks",
+   "kind": "Block",
+   "desc": "A doorbell block that goes bing... bong, or boom boom BAM if you ring it twice - with a camera on it, and a phone that shows you who is at the door.",
+   "art": [
+    "...yy...",
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyyyyyy",
+    "yyyyyyyy",
+    "kkkkkkkk",
+    "...yy...",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Doorbell",
+    "Redstone"
+   ],
+   "github": "https://github.com/Elduin-Labs/bingbong-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "claude-mod",
+   "title": "Claude",
+   "cat": "mobs",
+   "kind": "AI mob",
+   "desc": "An AI agent called Claude, standing in your world. Right-click to talk: Claude can see where you are, what you are looking at, what you are carrying and what is nearby, and\u2026",
+   "art": [
+    "...oo...",
+    "...oo...",
+    "..oooo..",
+    "oooooooo",
+    "oooooooo",
+    "..oooo..",
+    "...oo...",
+    "...oo..."
+   ],
+   "versions": [
+    "1.21.8"
+   ],
+   "tags": [
+    "AI",
+    "Talks"
+   ],
+   "github": "https://github.com/Elduin-Labs/claude-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "couch-mod",
+   "title": "Couch Cushions",
+   "cat": "blocks",
+   "kind": "Block",
+   "desc": "Couch cushions in all sixteen wool colours. Sit on them, bounce off them, and lose things down the back of them \u2014 anything dropped on a cushion sinks in, and sneak-clicking pulls\u2026",
+   "art": [
+    "........",
+    ".rrrrrr.",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    ".rrrrrr.",
+    "..mmmm..",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Furniture",
+    "16 colours"
+   ],
+   "github": "https://github.com/Elduin-Labs/couch-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "advbreakblock-mod",
+   "title": "Don't Break Me!",
+   "cat": "world",
+   "kind": "Advancement",
+   "desc": "Breaking a grass block earns you the \"Don't Break Me!\" advancement.",
+   "art": [
+    "ggggnggg",
+    "gnggggng",
+    "dddtdddd",
+    "dtdkdddd",
+    "ddkddktd",
+    "dddkdddd",
+    "dtdddddt",
+    "dddddddd"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Advancement",
+    "Grass"
+   ],
+   "github": "https://github.com/Elduin-Labs/advbreakblock-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "circle-mod",
+   "title": "Don't Leave the Circle",
+   "cat": "world",
+   "kind": "Game rule",
+   "desc": "You spawn inside a red wool circle. Step outside it and you die.",
+   "art": [
+    "..rrrr..",
+    ".r....r.",
+    "r......r",
+    "r..ww..r",
+    "r..ww..r",
+    "r......r",
+    ".r....r.",
+    "..rrrr.."
+   ],
+   "versions": [
+    "1.21.8"
+   ],
+   "tags": [
+    "Challenge",
+    "Wool"
+   ],
+   "github": "https://github.com/Elduin-Labs/circle-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "edubots",
+   "title": "EduBots",
+   "cat": "mobs",
+   "kind": "AI mob",
+   "desc": "Education robots powered by DeepSeek. Right-click a bot to start a lesson: everything you type in chat goes to that tutor.",
+   "art": [
+    "...c....",
+    "...s....",
+    ".ssssss.",
+    "scc..ccs",
+    "ssssssss",
+    "s.kkkk.s",
+    ".ssssss.",
+    "..s..s.."
+   ],
+   "versions": [
+    "1.21.8"
+   ],
+   "tags": [
+    "AI",
+    "Lessons"
+   ],
+   "github": "https://github.com/Elduin-Labs/edubots",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "glasshead",
+   "title": "GlassHead",
+   "cat": "tools",
+   "kind": "Wearable",
+   "desc": "Lets you wear glass on your head. Adds the vanilla equippable component to every glass block item, so no new models or textures ship with the mod.",
+   "art": [
+    "iiiiiiii",
+    "i.ww...i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "iiiiiiii"
+   ],
+   "versions": [
+    "1.21.8"
+   ],
+   "tags": [
+    "Armour",
+    "Glass"
+   ],
+   "github": "https://github.com/Elduin-Labs/glasshead",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "headpop-mod",
+   "title": "Head Pop",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Punch a zombie hard enough and its head comes clean off. The body wanders around blind while the head sits on the ground as a zombie head item.",
+   "art": [
+    "........",
+    ".nnnnnn.",
+    "nnnnnnnn",
+    "nkknnkkn",
+    "nnnnnnnn",
+    "nkkkkkkn",
+    "nnnnnnnn",
+    ".nnnnnn."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Zombie",
+    "Heads"
+   ],
+   "github": "https://github.com/Elduin-Labs/headpop-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "herobrine",
+   "title": "Herobrine",
+   "cat": "mobs",
+   "kind": "Rare mob",
+   "desc": "He appears at night, at a distance, and is gone the moment you look too long.",
+   "art": [
+    "..dddd..",
+    ".dddddd.",
+    "dddddddd",
+    "dwwddwwd",
+    "deeeeeed",
+    "de.ee.ed",
+    "deeeeeed",
+    ".dkkkkd."
+   ],
+   "versions": [
+    "1.21"
+   ],
+   "tags": [
+    "Spooky",
+    "Night"
+   ],
+   "github": "https://github.com/Elduin-Labs/herobrine",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "infinated-resources",
+   "title": "Infinated Resources",
+   "cat": "world",
+   "kind": "Resource pack",
+   "desc": "A resource pack where every single piece of text in the game just says Big Walk. Every item, every button, every death message.",
+   "art": [
+    "........",
+    ".llllll.",
+    "l.kkkk.l",
+    "llllllll",
+    "l.kk.k.l",
+    "llllllll",
+    ".llllll.",
+    "........"
+   ],
+   "versions": [],
+   "tags": [
+    "Resource pack",
+    "Silly"
+   ],
+   "github": "https://github.com/Elduin-Labs/infinated-resources",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "iston-mod",
+   "title": "Istons",
+   "cat": "blocks",
+   "kind": "Block",
+   "desc": "A piston with the extendible part left off. Power it and the block in front is simply shoved forward \u2014 no arm, no head, nothing sticking out of the wall.",
+   "art": [
+    "tttttttt",
+    "tuuuuuut",
+    "tuuuuuut",
+    "tttttttt",
+    "dddddddd",
+    "d.dddd.d",
+    "dddddddd",
+    "dddddddd"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Redstone",
+    "Piston"
+   ],
+   "github": "https://github.com/Elduin-Labs/iston-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "juuk-mod",
+   "title": "Juuk",
+   "cat": "tools",
+   "kind": "Item",
+   "desc": "The Juuk \u2014 a pig whistle. Right-click to call every pig within 24 blocks; they come running with a speed boost.",
+   "art": [
+    "........",
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyyyyy.",
+    "yyy..yy.",
+    ".yyyyyy.",
+    "..yyyy..",
+    "....dd.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Pigs",
+    "Whistle"
+   ],
+   "github": "https://github.com/Elduin-Labs/juuk-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "kickmod",
+   "title": "Kick",
+   "cat": "tools",
+   "kind": "New move",
+   "desc": "Kick with your foot, just like a punch. Low damage, big shove. Default key: X.",
+   "art": [
+    "..kk....",
+    "..kk....",
+    "..kk....",
+    "..kk....",
+    "..kkk...",
+    "..kkkkk.",
+    "..kkkkkk",
+    ".uuuuuuu"
+   ],
+   "versions": [
+    "26.2"
+   ],
+   "tags": [
+    "Combat",
+    "Key: X"
+   ],
+   "github": "https://github.com/Elduin-Labs/kickmod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "lavachicken",
+   "title": "Lava Chicken Party",
+   "cat": "mobs",
+   "kind": "Music disc",
+   "desc": "Put the Lava Chicken disc in a jukebox and the world throws a party. Every chicken in earshot spins and hops on the beat, any villager standing by a lit nether portal sings along\u2026",
+   "art": [
+    "...w....",
+    "..www...",
+    ".wkwwkw.",
+    "..wwwo..",
+    ".wwwwww.",
+    "wwwwwwww",
+    ".wwwwww.",
+    "..o..o.."
+   ],
+   "versions": [
+    "26.2-pre.4"
+   ],
+   "tags": [
+    "Party",
+    "Chickens"
+   ],
+   "github": "https://github.com/Elduin-Labs/lavachicken",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "mcdonalds-mod",
+   "title": "McDonald's",
+   "cat": "blocks",
+   "kind": "Block + shop",
+   "desc": "A McDonald's counter staffed by a villager. Breed villagers in a swamp, set down a McDonald's table, and everything on the menu costs one emerald.",
+   "art": [
+    "........",
+    ".tttttt.",
+    "tttttttt",
+    "gggggggg",
+    "dddddddd",
+    "yyyyyyyy",
+    ".tttttt.",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Villagers",
+    "Food"
+   ],
+   "github": "https://github.com/Elduin-Labs/mcdonalds-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "battleroyale",
+   "title": "Minecraft Battle Royale",
+   "cat": "world",
+   "kind": "Game mode",
+   "desc": "A Fortnite-style battle royale: a storm circle that closes over 20 minutes, spread-out drops, random respawns inside the circle, loot chests with potions and enchanted swords, a\u2026",
+   "art": [
+    "..pppp..",
+    ".p....p.",
+    "p..bb..p",
+    "p.b..b.p",
+    "p.b..b.p",
+    "p..bb..p",
+    ".p....p.",
+    "..pppp.."
+   ],
+   "versions": [
+    "26.2"
+   ],
+   "tags": [
+    "Minigame",
+    "Storm"
+   ],
+   "github": "https://github.com/Elduin-Labs/battleroyale",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "nunchuckets-mod",
+   "title": "Minecraft Movie Items",
+   "cat": "tools",
+   "kind": "Item",
+   "desc": "Items from the Minecraft movie. The Nunchuckets: two buckets on a chain, swing or spin. The Orb of Dominance: turn every mob around you against each other, at a cost.",
+   "art": [
+    "lll..lll",
+    ".l....l.",
+    ".l....l.",
+    "..l..l..",
+    "...ll...",
+    "...ll...",
+    "..l..l..",
+    ".l....l."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Movie",
+    "Weapon"
+   ],
+   "github": "https://github.com/Elduin-Labs/nunchuckets-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "pacman-mod",
+   "title": "Minecraft versus Pac-Man",
+   "cat": "world",
+   "kind": "Minigame",
+   "desc": "Run /pacman start and the world folds into a Pac-Man maze: black concrete floor, blue concrete walls, carpet pellets, and four glowing mobs playing Blinky, Pinky, Inky and Clyde.",
+   "art": [
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyy....",
+    "yyy.....",
+    "yyy.....",
+    "yyyy....",
+    ".yyyyyy.",
+    "..yyyy.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Arcade",
+    "Command"
+   ],
+   "github": "https://github.com/Elduin-Labs/pacman-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "mobvoice-mod",
+   "title": "Mob Voice Chat",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Right-click any mob to give it a new voice \u2014 one of the game's own sounds, or a clip you record with your own microphone through Simple Voice Chat.",
+   "art": [
+    "uuuuuuuu",
+    "u.llll.u",
+    "u.l..l.u",
+    "u.llll.u",
+    "u......u",
+    "u..ll..u",
+    "u..ll..u",
+    "uuuuuuuu"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Sound",
+    "Recording"
+   ],
+   "github": "https://github.com/Elduin-Labs/mobvoice-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "notdying-mod",
+   "title": "Not Dying",
+   "cat": "tools",
+   "kind": "Cheat",
+   "desc": "Full godmode. No damage, no hunger, no drowning, no fall damage, no burning, no freezing, no void death.",
+   "art": [
+    "llllllll",
+    "l......l",
+    "l.r..r.l",
+    "l.rrrr.l",
+    "l.rrrr.l",
+    "l..rr..l",
+    ".l....l.",
+    "..llll.."
+   ],
+   "versions": [
+    "1.21"
+   ],
+   "tags": [
+    "Godmode",
+    "Safety"
+   ],
+   "github": "https://github.com/Elduin-Labs/notdying-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "oldswing-mod",
+   "title": "Old Swing",
+   "cat": "world",
+   "kind": "Game change",
+   "desc": "Restores the pre-1.9 hand swing: a flat 6-tick animation for every item, instead of the per-item swing duration introduced with the SwingAnimationComponent.",
+   "art": [
+    "......ll",
+    ".....lll",
+    "....lll.",
+    "y..lll..",
+    ".y.ll...",
+    "..yl....",
+    ".d.y....",
+    "d......."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Combat",
+    "Old style"
+   ],
+   "github": "https://github.com/Elduin-Labs/oldswing-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "ridepig-mod",
+   "title": "Ride Pig",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Right-click any pig to ride it \u2014 no saddle needed. Steer with WASD, and you get a carrot on a stick every time you log in to make the pig run.",
+   "art": [
+    ".hhhhhh.",
+    "hhhhhhhh",
+    "hkkhhkkh",
+    "hhhhhhhh",
+    "hhffffhh",
+    "hhfkkfhh",
+    "hhffffhh",
+    ".hhhhhh."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Riding",
+    "Pigs"
+   ],
+   "github": "https://github.com/Elduin-Labs/ridepig-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "rateupdate-mod",
+   "title": "Snapshot 18w90a \u2014 The Rate Update",
+   "cat": "tools",
+   "kind": "New move",
+   "desc": "Sneak + right-click anything to pick it up and carry it on your head \u2014 mobs, animals, other players. Right-click again to throw it about fifty blocks into the sky.",
+   "art": [
+    "..dddd..",
+    "..dddd..",
+    "........",
+    "..eeee..",
+    "..ekke..",
+    "..eeee..",
+    ".bbbbbb.",
+    ".b.bb.b."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Carry",
+    "Throw"
+   ],
+   "github": "https://github.com/Elduin-Labs/rateupdate-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "sniffercostume-mod",
+   "title": "Sniffer Costume",
+   "cat": "tools",
+   "kind": "Armour set",
+   "desc": "A full wearable sniffer outfit, crafted from sniffer eggs. Four pieces, 24 eggs for the set.",
+   "art": [
+    "........",
+    "..cccc..",
+    ".cccccc.",
+    "ckcccckc",
+    ".cccccc.",
+    "..ffff..",
+    "..ffff..",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Costume",
+    "Sniffer"
+   ],
+   "github": "https://github.com/Elduin-Labs/sniffercostume-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "spacelaunch-mod",
+   "title": "Space Launch",
+   "cat": "world",
+   "kind": "Command",
+   "desc": "Adds /spaceLaunch: fly to space, float, and then fail to fly.",
+   "art": [
+    "...ww...",
+    "..wwww..",
+    "..wccw..",
+    "..wwww..",
+    ".wwwwww.",
+    "r.wwww.r",
+    "..o..o..",
+    "...oo..."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Space",
+    "Silly"
+   ],
+   "github": "https://github.com/Elduin-Labs/spacelaunch-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "spinning-cow",
+   "title": "Spinning Cow",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Hit a cow and it starts spinning, launches into space, and fails the landing.",
+   "art": [
+    ".wwwwww.",
+    "wkwwwwkw",
+    "wwwwwwww",
+    "wkkwwkkw",
+    "wwwwwwww",
+    "weffffew",
+    ".ffkkff.",
+    "..ffff.."
+   ],
+   "versions": [
+    "1.21"
+   ],
+   "tags": [
+    "Cows",
+    "Silly"
+   ],
+   "github": "https://github.com/Elduin-Labs/spinning-cow",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "npc-mod",
+   "title": "Talking NPCs",
+   "cat": "mobs",
+   "kind": "Mob",
+   "desc": "Villager-looking people who say things. Right-click one for a line of dialogue; they wander, watch you go past, and cannot be hurt by players.",
+   "art": [
+    "..dddd..",
+    ".dddddd.",
+    "eeeeeeee",
+    "ekeeeeke",
+    "ee.ff.ee",
+    "ee.ff.ee",
+    "eeeeeeee",
+    ".nnnnnn."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Villagers",
+    "Dialogue"
+   ],
+   "github": "https://github.com/Elduin-Labs/npc-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "talking-villagers-mod",
+   "title": "Talking Villagers",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Villagers you can actually talk to. Right-click one and it says something back, in words, instead of hurr-durring at you.",
+   "art": [
+    ".llllll.",
+    "llllllll",
+    "l.kkkk.l",
+    "llllllll",
+    "l.kkkk.l",
+    "llllllll",
+    ".lll....",
+    "..l....."
+   ],
+   "versions": [
+    "1.21.10"
+   ],
+   "tags": [
+    "Villagers",
+    "Dialogue"
+   ],
+   "github": "https://github.com/Elduin-Labs/talking-villagers-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "potty-mod",
+   "title": "The Potty Update",
+   "cat": "world",
+   "kind": "Need",
+   "desc": "Everything you eat and drink has to go somewhere. Build a toilet, keep toilet paper on you, flush before it clogs, and wash your hands \u2014 or have an accident in front of everyone.",
+   "art": [
+    "..wwww..",
+    "..w..w..",
+    "..wwww..",
+    ".wwwwww.",
+    "wwwwwwww",
+    "wiiiiiiw",
+    ".wwwwww.",
+    "..wwww.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Survival",
+    "Toilet"
+   ],
+   "github": "https://github.com/Elduin-Labs/potty-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "realworld-mod",
+   "title": "The Real World",
+   "cat": "world",
+   "kind": "Dimension",
+   "desc": "Adds the Real World: a flat, grey, boring dimension. Run /realworld to cross over, and again to come home.",
+   "art": [
+    "ssssssss",
+    "s......s",
+    "s.llll.s",
+    "s.llll.s",
+    "s.llll.s",
+    "s.llll.s",
+    "s......s",
+    "ssssssss"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Dimension",
+    "Command"
+   ],
+   "github": "https://github.com/Elduin-Labs/realworld-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "timemachine-mod",
+   "title": "Time Machine",
+   "cat": "blocks",
+   "kind": "Block",
+   "desc": "A block that turns the world back to any version of Minecraft, from the four-day prototype of May 2009 to the present.",
+   "art": [
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyykyyyy",
+    "yyykyyyy",
+    "yyykkkyy",
+    "yyyyyyyy",
+    ".yyyyyy.",
+    "..yyyy.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Time travel",
+    "Old versions"
+   ],
+   "github": "https://github.com/Elduin-Labs/timemachine-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "turtlecraft-mod",
+   "title": "Turtle Craft",
+   "cat": "mobs",
+   "kind": "Mob change",
+   "desc": "Right-click a turtle with an empty hand to ride it through the reef, or a parrot to fly. No saddle.",
+   "art": [
+    "........",
+    "..gggg..",
+    ".gnnnng.",
+    "ggnggngg",
+    "ggnnnngg",
+    ".gggggg.",
+    "g.g..g.g",
+    "........"
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Riding",
+    "No saddle"
+   ],
+   "github": "https://github.com/Elduin-Labs/turtlecraft-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "villagernose-mod",
+   "title": "Villager Nose",
+   "cat": "mobs",
+   "kind": "Skin change",
+   "desc": "Renders every player as Steve with a real, protruding villager nose \u2014 in the world (F5) and in the inventory. Client-side only; no server install needed.",
+   "art": [
+    "..dddd..",
+    ".eeeeee.",
+    "eeeeeeee",
+    "ekeeeeke",
+    "ee.ff.ee",
+    "e.ffff.e",
+    "ee.ff.ee",
+    ".eeeeee."
+   ],
+   "versions": [
+    "1.21"
+   ],
+   "tags": [
+    "Client only",
+    "Noses",
+    "Client only"
+   ],
+   "github": "https://github.com/Elduin-Labs/villagernose-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "voiceclaude-mod",
+   "title": "Voice Claude",
+   "cat": "mobs",
+   "kind": "AI mob",
+   "desc": "Talk out loud to an NPC. Simple Voice Chat carries your voice to the server, Whisper turns it into text, and an LLM answers in chat.",
+   "art": [
+    "...ss...",
+    "..ssss..",
+    "..ssss..",
+    "..ssss..",
+    "u..ss..u",
+    "u.uuuu.u",
+    "...uu...",
+    "..uuuu.."
+   ],
+   "versions": [
+    "1.21.11"
+   ],
+   "tags": [
+    "Voice",
+    "AI"
+   ],
+   "github": "https://github.com/Elduin-Labs/voiceclaude-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  }
+ ]
+}

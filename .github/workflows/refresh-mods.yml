@@ -1,0 +1,48 @@
+name: Refresh the mod list
+
+# Rebuilds the mod list from the real repos, releases and Modrinth pages, and
+# commits it if anything changed. Pages redeploys on that commit, so a brand new
+# mod turns up on mod.com by itself within a day of being published.
+
+on:
+  schedule:
+    - cron: "41 6 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [mod-released]
+  push:
+    branches: [main]
+    paths:
+      - "tools/build_mods.py"
+      - "data/overrides.json"
+      - ".github/workflows/refresh-mods.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-mods
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build the mod list
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/build_mods.py
+
+      - name: Commit it if it changed
+        run: |
+          if git diff --quiet -- data/mods.json data/mods.js; then
+            echo "nothing changed"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mods.json data/mods.js
+          git commit -m "Refresh the mod list"
+          git push

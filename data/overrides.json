@@ -1,0 +1,733 @@
+{
+ "_note": "Hand-drawn 8x8 icon, category and short kind label for each mod. Keyed by GitHub repo name. Anything not listed here still shows up on the site with a guessed icon and category - add an entry to give it a proper one. Palette letters are in PAL in index.html.",
+ "_skip": [
+  "mod-template",
+  ".github",
+  "elduin-labs.github.io"
+ ],
+ "mods": {
+  "advbreakblock-mod": {
+   "cat": "world",
+   "kind": "Advancement",
+   "tags": [
+    "Advancement",
+    "Grass"
+   ],
+   "art": [
+    "ggggnggg",
+    "gnggggng",
+    "dddtdddd",
+    "dtdkdddd",
+    "ddkddktd",
+    "dddkdddd",
+    "dtdddddt",
+    "dddddddd"
+   ],
+   "title": "Don't Break Me!"
+  },
+  "babies-mod": {
+   "cat": "mobs",
+   "kind": "Mob + block",
+   "tags": [
+    "Mob",
+    "Cradle"
+   ],
+   "art": [
+    "...ee...",
+    "..eeee..",
+    ".ekeeke.",
+    ".eeeeee.",
+    "tttttttt",
+    "t.tttt.t",
+    "tttttttt",
+    ".d....d."
+   ]
+  },
+  "battleroyale": {
+   "cat": "world",
+   "kind": "Game mode",
+   "tags": [
+    "Minigame",
+    "Storm"
+   ],
+   "art": [
+    "..pppp..",
+    ".p....p.",
+    "p..bb..p",
+    "p.b..b.p",
+    "p.b..b.p",
+    "p..bb..p",
+    ".p....p.",
+    "..pppp.."
+   ]
+  },
+  "bingbong-mod": {
+   "cat": "blocks",
+   "kind": "Block",
+   "tags": [
+    "Doorbell",
+    "Redstone"
+   ],
+   "art": [
+    "...yy...",
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyyyyyy",
+    "yyyyyyyy",
+    "kkkkkkkk",
+    "...yy...",
+    "........"
+   ]
+  },
+  "circle-mod": {
+   "cat": "world",
+   "kind": "Game rule",
+   "tags": [
+    "Challenge",
+    "Wool"
+   ],
+   "art": [
+    "..rrrr..",
+    ".r....r.",
+    "r......r",
+    "r..ww..r",
+    "r..ww..r",
+    "r......r",
+    ".r....r.",
+    "..rrrr.."
+   ]
+  },
+  "claude-mod": {
+   "cat": "mobs",
+   "kind": "AI mob",
+   "tags": [
+    "AI",
+    "Talks"
+   ],
+   "art": [
+    "...oo...",
+    "...oo...",
+    "..oooo..",
+    "oooooooo",
+    "oooooooo",
+    "..oooo..",
+    "...oo...",
+    "...oo..."
+   ]
+  },
+  "couch-mod": {
+   "cat": "blocks",
+   "kind": "Block",
+   "tags": [
+    "Furniture",
+    "16 colours"
+   ],
+   "art": [
+    "........",
+    ".rrrrrr.",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    ".rrrrrr.",
+    "..mmmm..",
+    "........"
+   ]
+  },
+  "edubots": {
+   "cat": "mobs",
+   "kind": "AI mob",
+   "tags": [
+    "AI",
+    "Lessons"
+   ],
+   "art": [
+    "...c....",
+    "...s....",
+    ".ssssss.",
+    "scc..ccs",
+    "ssssssss",
+    "s.kkkk.s",
+    ".ssssss.",
+    "..s..s.."
+   ]
+  },
+  "glasshead": {
+   "cat": "tools",
+   "kind": "Wearable",
+   "tags": [
+    "Armour",
+    "Glass"
+   ],
+   "art": [
+    "iiiiiiii",
+    "i.ww...i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "i......i",
+    "iiiiiiii"
+   ]
+  },
+  "headpop-mod": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Zombie",
+    "Heads"
+   ],
+   "art": [
+    "........",
+    ".nnnnnn.",
+    "nnnnnnnn",
+    "nkknnkkn",
+    "nnnnnnnn",
+    "nkkkkkkn",
+    "nnnnnnnn",
+    ".nnnnnn."
+   ]
+  },
+  "herobrine": {
+   "cat": "mobs",
+   "kind": "Rare mob",
+   "tags": [
+    "Spooky",
+    "Night"
+   ],
+   "art": [
+    "..dddd..",
+    ".dddddd.",
+    "dddddddd",
+    "dwwddwwd",
+    "deeeeeed",
+    "de.ee.ed",
+    "deeeeeed",
+    ".dkkkkd."
+   ]
+  },
+  "iston-mod": {
+   "cat": "blocks",
+   "kind": "Block",
+   "tags": [
+    "Redstone",
+    "Piston"
+   ],
+   "art": [
+    "tttttttt",
+    "tuuuuuut",
+    "tuuuuuut",
+    "tttttttt",
+    "dddddddd",
+    "d.dddd.d",
+    "dddddddd",
+    "dddddddd"
+   ]
+  },
+  "juuk-mod": {
+   "cat": "tools",
+   "kind": "Item",
+   "tags": [
+    "Pigs",
+    "Whistle"
+   ],
+   "art": [
+    "........",
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyyyyy.",
+    "yyy..yy.",
+    ".yyyyyy.",
+    "..yyyy..",
+    "....dd.."
+   ]
+  },
+  "kickmod": {
+   "cat": "tools",
+   "kind": "New move",
+   "tags": [
+    "Combat",
+    "Key: X"
+   ],
+   "art": [
+    "..kk....",
+    "..kk....",
+    "..kk....",
+    "..kk....",
+    "..kkk...",
+    "..kkkkk.",
+    "..kkkkkk",
+    ".uuuuuuu"
+   ]
+  },
+  "lavachicken": {
+   "cat": "mobs",
+   "kind": "Music disc",
+   "tags": [
+    "Party",
+    "Chickens"
+   ],
+   "art": [
+    "...w....",
+    "..www...",
+    ".wkwwkw.",
+    "..wwwo..",
+    ".wwwwww.",
+    "wwwwwwww",
+    ".wwwwww.",
+    "..o..o.."
+   ]
+  },
+  "mcdonalds-mod": {
+   "cat": "blocks",
+   "kind": "Block + shop",
+   "tags": [
+    "Villagers",
+    "Food"
+   ],
+   "art": [
+    "........",
+    ".tttttt.",
+    "tttttttt",
+    "gggggggg",
+    "dddddddd",
+    "yyyyyyyy",
+    ".tttttt.",
+    "........"
+   ]
+  },
+  "mobvoice-mod": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Sound",
+    "Recording"
+   ],
+   "art": [
+    "uuuuuuuu",
+    "u.llll.u",
+    "u.l..l.u",
+    "u.llll.u",
+    "u......u",
+    "u..ll..u",
+    "u..ll..u",
+    "uuuuuuuu"
+   ]
+  },
+  "notdying-mod": {
+   "cat": "tools",
+   "kind": "Cheat",
+   "tags": [
+    "Godmode",
+    "Safety"
+   ],
+   "art": [
+    "llllllll",
+    "l......l",
+    "l.r..r.l",
+    "l.rrrr.l",
+    "l.rrrr.l",
+    "l..rr..l",
+    ".l....l.",
+    "..llll.."
+   ]
+  },
+  "npc-mod": {
+   "cat": "mobs",
+   "kind": "Mob",
+   "tags": [
+    "Villagers",
+    "Dialogue"
+   ],
+   "art": [
+    "..dddd..",
+    ".dddddd.",
+    "eeeeeeee",
+    "ekeeeeke",
+    "ee.ff.ee",
+    "ee.ff.ee",
+    "eeeeeeee",
+    ".nnnnnn."
+   ]
+  },
+  "nunchuckets-mod": {
+   "cat": "tools",
+   "kind": "Item",
+   "tags": [
+    "Movie",
+    "Weapon"
+   ],
+   "art": [
+    "lll..lll",
+    ".l....l.",
+    ".l....l.",
+    "..l..l..",
+    "...ll...",
+    "...ll...",
+    "..l..l..",
+    ".l....l."
+   ]
+  },
+  "oldswing-mod": {
+   "cat": "world",
+   "kind": "Game change",
+   "tags": [
+    "Combat",
+    "Old style"
+   ],
+   "art": [
+    "......ll",
+    ".....lll",
+    "....lll.",
+    "y..lll..",
+    ".y.ll...",
+    "..yl....",
+    ".d.y....",
+    "d......."
+   ]
+  },
+  "organs-mod": {
+   "cat": "world",
+   "kind": "Health system",
+   "tags": [
+    "Survival",
+    "Injury"
+   ],
+   "art": [
+    "........",
+    ".rr..rr.",
+    "rrrrrrrr",
+    "rrrrrrrr",
+    ".rrrrrr.",
+    "..rrrr..",
+    "...rr...",
+    "........"
+   ]
+  },
+  "pacman-mod": {
+   "cat": "world",
+   "kind": "Minigame",
+   "tags": [
+    "Arcade",
+    "Command"
+   ],
+   "art": [
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyyy....",
+    "yyy.....",
+    "yyy.....",
+    "yyyy....",
+    ".yyyyyy.",
+    "..yyyy.."
+   ]
+  },
+  "pearlcannon-mod": {
+   "cat": "blocks",
+   "kind": "Block change",
+   "tags": [
+    "Dispenser",
+    "Teleport"
+   ],
+   "art": [
+    "..cccc..",
+    ".cccccc.",
+    "cccnnccc",
+    "ccnnnncc",
+    "ccnnnncc",
+    "cccnnccc",
+    ".cccccc.",
+    "..cccc.."
+   ]
+  },
+  "potty-mod": {
+   "cat": "world",
+   "kind": "Need",
+   "tags": [
+    "Survival",
+    "Toilet"
+   ],
+   "art": [
+    "..wwww..",
+    "..w..w..",
+    "..wwww..",
+    ".wwwwww.",
+    "wwwwwwww",
+    "wiiiiiiw",
+    ".wwwwww.",
+    "..wwww.."
+   ]
+  },
+  "rateupdate-mod": {
+   "cat": "tools",
+   "kind": "New move",
+   "tags": [
+    "Carry",
+    "Throw"
+   ],
+   "art": [
+    "..dddd..",
+    "..dddd..",
+    "........",
+    "..eeee..",
+    "..ekke..",
+    "..eeee..",
+    ".bbbbbb.",
+    ".b.bb.b."
+   ]
+  },
+  "realworld-mod": {
+   "cat": "world",
+   "kind": "Dimension",
+   "tags": [
+    "Dimension",
+    "Command"
+   ],
+   "art": [
+    "ssssssss",
+    "s......s",
+    "s.llll.s",
+    "s.llll.s",
+    "s.llll.s",
+    "s.llll.s",
+    "s......s",
+    "ssssssss"
+   ]
+  },
+  "ridepig-mod": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Riding",
+    "Pigs"
+   ],
+   "art": [
+    ".hhhhhh.",
+    "hhhhhhhh",
+    "hkkhhkkh",
+    "hhhhhhhh",
+    "hhffffhh",
+    "hhfkkfhh",
+    "hhffffhh",
+    ".hhhhhh."
+   ]
+  },
+  "ringbongos-mod": {
+   "cat": "blocks",
+   "kind": "Block + OS",
+   "tags": [
+    "Terminal",
+    "Redstone"
+   ],
+   "art": [
+    "uuuuuuuu",
+    "u......u",
+    "u.gggg.u",
+    "u.g..g.u",
+    "u.gggg.u",
+    "u......u",
+    "uuuuuuuu",
+    "..u..u.."
+   ]
+  },
+  "sniffercostume-mod": {
+   "cat": "tools",
+   "kind": "Armour set",
+   "tags": [
+    "Costume",
+    "Sniffer"
+   ],
+   "art": [
+    "........",
+    "..cccc..",
+    ".cccccc.",
+    "ckcccckc",
+    ".cccccc.",
+    "..ffff..",
+    "..ffff..",
+    "........"
+   ]
+  },
+  "spacelaunch-mod": {
+   "cat": "world",
+   "kind": "Command",
+   "tags": [
+    "Space",
+    "Silly"
+   ],
+   "art": [
+    "...ww...",
+    "..wwww..",
+    "..wccw..",
+    "..wwww..",
+    ".wwwwww.",
+    "r.wwww.r",
+    "..o..o..",
+    "...oo..."
+   ]
+  },
+  "spinning-cow": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Cows",
+    "Silly"
+   ],
+   "art": [
+    ".wwwwww.",
+    "wkwwwwkw",
+    "wwwwwwww",
+    "wkkwwkkw",
+    "wwwwwwww",
+    "weffffew",
+    ".ffkkff.",
+    "..ffff.."
+   ]
+  },
+  "spongebob-mod": {
+   "cat": "mobs",
+   "kind": "Mobs",
+   "tags": [
+    "Spawn eggs",
+    "Fan-made"
+   ],
+   "art": [
+    "yyyyyyyy",
+    "yoyyyoyy",
+    "yyyyyyyy",
+    "yyoyyyoy",
+    "yoyyyyyy",
+    "yyyyoyyy",
+    "yyoyyyyy",
+    "yyyyyyyy"
+   ]
+  },
+  "talking-villagers-mod": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Villagers",
+    "Dialogue"
+   ],
+   "art": [
+    ".llllll.",
+    "llllllll",
+    "l.kkkk.l",
+    "llllllll",
+    "l.kkkk.l",
+    "llllllll",
+    ".lll....",
+    "..l....."
+   ],
+   "desc": "Villagers you can actually talk to. Right-click one and it says something back, in words, instead of hurr-durring at you."
+  },
+  "timemachine-mod": {
+   "cat": "blocks",
+   "kind": "Block",
+   "tags": [
+    "Time travel",
+    "Old versions"
+   ],
+   "art": [
+    "..yyyy..",
+    ".yyyyyy.",
+    "yyykyyyy",
+    "yyykyyyy",
+    "yyykkkyy",
+    "yyyyyyyy",
+    ".yyyyyy.",
+    "..yyyy.."
+   ]
+  },
+  "turtlecraft-mod": {
+   "cat": "mobs",
+   "kind": "Mob change",
+   "tags": [
+    "Riding",
+    "No saddle"
+   ],
+   "art": [
+    "........",
+    "..gggg..",
+    ".gnnnng.",
+    "ggnggngg",
+    "ggnnnngg",
+    ".gggggg.",
+    "g.g..g.g",
+    "........"
+   ]
+  },
+  "twod-mod": {
+   "cat": "world",
+   "kind": "Game mode",
+   "tags": [
+    "2D",
+    "Key: G"
+   ],
+   "art": [
+    "iiiiiiii",
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuukuu"
+   ]
+  },
+  "villagernose-mod": {
+   "cat": "mobs",
+   "kind": "Skin change",
+   "tags": [
+    "Client only",
+    "Noses"
+   ],
+   "art": [
+    "..dddd..",
+    ".eeeeee.",
+    "eeeeeeee",
+    "ekeeeeke",
+    "ee.ff.ee",
+    "e.ffff.e",
+    "ee.ff.ee",
+    ".eeeeee."
+   ]
+  },
+  "voiceclaude-mod": {
+   "cat": "mobs",
+   "kind": "AI mob",
+   "tags": [
+    "Voice",
+    "AI"
+   ],
+   "art": [
+    "...ss...",
+    "..ssss..",
+    "..ssss..",
+    "..ssss..",
+    "u..ss..u",
+    "u.uuuu.u",
+    "...uu...",
+    "..uuuu.."
+   ]
+  },
+  "infinated-resources": {
+   "cat": "world",
+   "kind": "Resource pack",
+   "tags": [
+    "Resource pack",
+    "Silly"
+   ],
+   "desc": "A resource pack where every single piece of text in the game just says Big Walk. Every item, every button, every death message.",
+   "art": [
+    "........",
+    ".llllll.",
+    "l.kkkk.l",
+    "llllllll",
+    "l.kk.k.l",
+    "llllllll",
+    ".llllll.",
+    "........"
+   ]
+  }
+ }
+}

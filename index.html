@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mod.com — every mod Elduin made</title>
+<meta name="description" content="Mod.com — the whole shelf of Minecraft mods Elduin has built. Search them, sort them, grab the ones that are ready to play.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Crect width='8' height='8' fill='%231a1d21'/%3E%3Crect x='1' y='2' width='6' height='4' fill='%2357d07a'/%3E%3Crect x='2' y='3' width='1' height='1' fill='%231a1d21'/%3E%3Crect x='5' y='3' width='1' height='1' fill='%231a1d21'/%3E%3C/svg%3E">
+<style>
+  :root{
+    --bg:#0e1013; --bg2:#14171c; --card:#181c22; --line:#252b33;
+    --ink:#f2f4f6; --dim:#98a2ad; --green:#57d07a; --green2:#2f7a45;
+    --yellow:#f0c33c; --purple:#a06ee0; --blue:#4a7fd4;
+    --shadow:0 2px 0 #000, 0 10px 24px rgba(0,0,0,.35);
+  }
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font:16px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background-image:
+      radial-gradient(1000px 500px at 15% -10%, rgba(87,208,122,.14), transparent 60%),
+      radial-gradient(900px 460px at 85% -5%, rgba(160,110,224,.13), transparent 60%);
+    background-repeat:no-repeat;
+  }
+  .wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+
+  /* ---------- header ---------- */
+  header{padding:54px 0 26px}
+  .logo{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+  .logo svg{width:64px;height:64px;filter:drop-shadow(0 4px 0 rgba(0,0,0,.5))}
+  .word{
+    font-size:clamp(42px,9vw,76px); line-height:.95; font-weight:900;
+    letter-spacing:-.03em; margin:0;
+  }
+  .word .dot{color:var(--green)}
+  .word .com{color:var(--dim);font-weight:800}
+  .tag{margin:16px 0 0;font-size:clamp(17px,2.4vw,21px);color:var(--dim);max-width:60ch}
+  .tag b{color:var(--ink);font-weight:700}
+  .counts{display:flex;gap:10px;flex-wrap:wrap;margin-top:20px}
+  .pill{
+    background:var(--bg2);border:1px solid var(--line);border-radius:999px;
+    padding:7px 14px;font-size:14px;color:var(--dim)
+  }
+  .pill b{color:var(--green);font-weight:800}
+
+  /* ---------- controls ---------- */
+  .controls{
+    position:sticky;top:0;z-index:20;margin:26px 0 22px;padding:14px 0;
+    background:rgba(14,16,19,.86);backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+  }
+  .controls .inner{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+  .search{position:relative;flex:1 1 260px;min-width:0}
+  .search input{
+    width:100%;padding:12px 14px 12px 40px;border-radius:12px;
+    background:var(--bg2);border:1px solid var(--line);color:var(--ink);
+    font-size:16px;outline:none
+  }
+  .search input:focus{border-color:var(--green);box-shadow:0 0 0 3px rgba(87,208,122,.16)}
+  .search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);width:16px;height:16px;fill:var(--dim)}
+  .chips{display:flex;gap:8px;flex-wrap:wrap}
+  .chip{
+    appearance:none;cursor:pointer;font:inherit;font-size:14px;font-weight:700;
+    padding:10px 15px;border-radius:12px;color:var(--dim);
+    background:var(--bg2);border:1px solid var(--line);
+  }
+  .chip:hover{color:var(--ink);border-color:#39414c}
+  .chip[aria-pressed="true"]{background:var(--green);border-color:var(--green);color:#0e1013}
+
+  /* ---------- grid ---------- */
+  .grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));padding-bottom:10px}
+  .mod{
+    background:var(--card);border:1px solid var(--line);border-radius:16px;
+    padding:18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow);
+    transition:transform .12s ease,border-color .12s ease
+  }
+  .mod:hover{transform:translateY(-3px);border-color:#3a444f}
+  .top{display:flex;gap:13px;align-items:flex-start}
+  .icon{
+    width:56px;height:56px;flex:none;border-radius:12px;overflow:hidden;
+    background:#0d1014;border:1px solid var(--line);image-rendering:pixelated
+  }
+  .icon svg{display:block;width:100%;height:100%}
+  h2{margin:0;font-size:19px;line-height:1.2;font-weight:800}
+  .kind{margin:4px 0 0;font-size:13px;color:var(--green);font-weight:700}
+  .desc{margin:0;color:var(--dim);font-size:14.5px;flex:1}
+  .meta{display:flex;gap:6px;flex-wrap:wrap}
+  .badge{
+    font-size:12px;font-weight:700;padding:4px 9px;border-radius:8px;
+    background:#11151a;border:1px solid var(--line);color:var(--dim)
+  }
+  .badge.mc{color:var(--yellow);border-color:#3a3320}
+  .row{display:flex;gap:8px;flex-wrap:wrap;margin-top:2px}
+  a.btn{
+    text-decoration:none;font-size:14px;font-weight:800;padding:9px 14px;border-radius:11px;
+    border:1px solid var(--line);background:#11151a;color:var(--ink)
+  }
+  a.btn:hover{border-color:#4a5563}
+  a.btn.get{background:var(--green);border-color:var(--green);color:#0e1013}
+  a.btn.get:hover{background:#6ce08c}
+  a.btn.mr{background:var(--green2);border-color:var(--green2)}
+  .soon{font-size:13px;color:var(--dim);align-self:center;padding:9px 0}
+
+  .empty{padding:50px 0;text-align:center;color:var(--dim)}
+  footer{margin:46px 0 60px;padding-top:22px;border-top:1px solid var(--line);color:var(--dim);font-size:14px}
+  footer a{color:var(--green)}
+  @media (max-width:520px){ header{padding:34px 0 18px} .logo svg{width:48px;height:48px} }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="logo">
+      <svg viewBox="0 0 8 8" shape-rendering="crispEdges" aria-hidden="true">
+        <rect width="8" height="8" fill="#1a1d21"/>
+        <rect x="1" y="1" width="6" height="6" fill="#57d07a"/>
+        <rect x="1" y="1" width="6" height="1" fill="#6ce08c"/>
+        <rect x="2" y="3" width="1" height="2" fill="#1a1d21"/>
+        <rect x="5" y="3" width="1" height="2" fill="#1a1d21"/>
+        <rect x="3" y="5" width="2" height="1" fill="#2f7a45"/>
+      </svg>
+      <h1 class="word">MOD<span class="dot">.</span><span class="com">COM</span></h1>
+    </div>
+    <p class="tag">Every Minecraft mod <b>Elduin</b> has made, all on one shelf. Search it, pick one, go play.</p>
+    <div class="counts">
+      <span class="pill"><b id="n-mods">0</b> mods</span>
+      <span class="pill"><b id="n-ready">0</b> ready to download</span>
+      <span class="pill">Fabric</span>
+      <span class="pill" id="n-fresh">&nbsp;</span>
+    </div>
+  </header>
+
+  <div class="controls">
+    <div class="inner">
+      <label class="search">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 2a8 8 0 105.3 14l5.4 5.4 1.4-1.4-5.4-5.4A8 8 0 0010 2zm0 2a6 6 0 110 12 6 6 0 010-12z"/></svg>
+        <input id="q" type="search" placeholder="Search the mods…" autocomplete="off" aria-label="Search the mods">
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="Filter by kind"></div>
+    </div>
+  </div>
+
+  <main class="grid" id="grid"></main>
+  <p class="empty" id="empty" hidden>No mod by that name. Try another word.</p>
+
+  <footer>
+    Made by Elduin. Everything here is free and open —
+    <a href="https://github.com/Elduin-Labs">the code is on GitHub</a>.
+    This list builds itself from the real repos, so a brand new mod shows up here on its own.
+  </footer>
+</div>
+
+<script src="data/mods.js"></script>
+<script>
+(function(){
+  var PAL = { g:"#57d07a", n:"#2f7a45", k:"#1a1d21", w:"#f2f4f6", l:"#c9cdd2",
+              s:"#8f9aa3", u:"#575e66", y:"#f0c33c", o:"#f0873c", r:"#d4574c",
+              m:"#8c2f2a", c:"#5ce4dc", b:"#4a7fd4", i:"#a8d8f0", p:"#a06ee0",
+              v:"#5b3a8c", d:"#8a5a34", t:"#c9a06a", e:"#e8b48c", f:"#c97f5a",
+              h:"#e05a8c" };
+
+  var DATA = window.MOD_DATA || { mods: [] };
+  var MODS = DATA.mods || [];
+  var CATS = [
+    { id:"all",    label:"All" },
+    { id:"mobs",   label:"Mobs" },
+    { id:"blocks", label:"Blocks" },
+    { id:"tools",  label:"Items" },
+    { id:"world",  label:"World" }
+  ];
+  var cat = "all", q = "";
+
+  function esc(s){
+    return String(s == null ? "" : s)
+      .replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+  }
+
+  function art(rows){
+    var s = '<svg viewBox="0 0 8 8" shape-rendering="crispEdges" aria-hidden="true">';
+    for (var y = 0; y < rows.length; y++){
+      for (var x = 0; x < rows[y].length; x++){
+        var c = PAL[rows[y][x]];
+        if (c) s += '<rect x="'+x+'" y="'+y+'" width="1" height="1" fill="'+c+'"></rect>';
+      }
+    }
+    return s + '</svg>';
+  }
+
+  function card(m){
+    var h = '<article class="mod">';
+    h += '<div class="top"><div class="icon">' + art(m.art || []) + '</div><div>';
+    h += '<h2>' + esc(m.title) + '</h2><p class="kind">' + esc(m.kind) + '</p></div></div>';
+    h += '<p class="desc">' + esc(m.desc) + '</p>';
+
+    var badges = (m.versions || []).map(function(v){
+      return '<span class="badge mc">' + esc(v) + '</span>';
+    }).concat((m.tags || []).map(function(t){
+      return '<span class="badge">' + esc(t) + '</span>';
+    }));
+    if (badges.length) h += '<div class="meta">' + badges.join("") + '</div>';
+
+    h += '<div class="row">';
+    if (m.modrinth) h += '<a class="btn get mr" href="' + esc(m.modrinth.url) + '">Get it on Modrinth</a>';
+    else if (m.jar)  h += '<a class="btn get" href="' + esc(m.jar.url) + '">Download ' + esc(m.release ? m.release.tag : "it") + '</a>';
+    else             h += '<span class="soon">No download yet</span>';
+    h += '<a class="btn" href="' + esc(m.github) + '">Code</a>';
+    h += '</div></article>';
+    return h;
+  }
+
+  function matches(m){
+    if (cat !== "all" && m.cat !== cat) return false;
+    if (!q) return true;
+    var hay = [m.title, m.desc, m.kind, (m.tags || []).join(" "), (m.versions || []).join(" "), m.repo]
+      .join(" ").toLowerCase();
+    return hay.indexOf(q) !== -1;
+  }
+
+  function draw(){
+    var list = MODS.filter(matches);
+    document.getElementById("grid").innerHTML = list.map(card).join("");
+    document.getElementById("empty").hidden = list.length > 0;
+  }
+
+  function chips(){
+    var el = document.getElementById("chips");
+    el.innerHTML = CATS.map(function(c){
+      var n = c.id === "all" ? MODS.length : MODS.filter(function(m){ return m.cat === c.id; }).length;
+      if (!n) return "";
+      return '<button class="chip" data-cat="' + c.id + '" aria-pressed="' + (c.id === cat) + '">' +
+             c.label + ' <span style="opacity:.6">' + n + '</span></button>';
+    }).join("");
+    el.addEventListener("click", function(e){
+      var b = e.target.closest(".chip");
+      if (!b) return;
+      cat = b.dataset.cat;
+      [].forEach.call(el.querySelectorAll(".chip"), function(c){
+        c.setAttribute("aria-pressed", c.dataset.cat === cat);
+      });
+      draw();
+    });
+  }
+
+  document.getElementById("n-mods").textContent = MODS.length;
+  document.getElementById("n-ready").textContent =
+    MODS.filter(function(m){ return m.jar || m.modrinth; }).length;
+  if (DATA.generated){
+    document.getElementById("n-fresh").textContent = "updated " + DATA.generated.slice(0, 10);
+  }
+
+  document.getElementById("q").addEventListener("input", function(e){
+    q = e.target.value.trim().toLowerCase();
+    draw();
+  });
+
+  chips();
+  draw();
+})();
+</script>
+</body>
+</html>
