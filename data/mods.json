@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-30T17:44:37Z",
+ "generated": "2026-08-30T17:47:31Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 40,
+ "count": 41,
  "mods": [
   {
    "repo": "organs-mod",
@@ -747,6 +747,30 @@
     "Recording"
    ],
    "github": "https://github.com/Elduin-Labs/mobvoice-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "mod-com",
+   "title": "Mod Com",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Mod.com - every Minecraft mod Elduin has made, on one page",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/mod-com",
    "stars": 0,
    "release": null,
    "jar": null,
