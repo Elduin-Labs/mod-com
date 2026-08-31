@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-30T17:47:31Z",
+ "generated": "2026-08-31T14:25:26Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
  "count": 41,
@@ -839,7 +839,7 @@
    "title": "Ride Pig",
    "cat": "mobs",
    "kind": "Mob change",
-   "desc": "Right-click any pig to ride it \u2014 no saddle needed. Steer with WASD, and you get a carrot on a stick every time you log in to make the pig run.",
+   "desc": "Right-click any pig to ride it \u2014 no saddle needed. Steer with WASD, jump with space, and you get an unbreakable carrot on a stick every time you log in to make the pig run.",
    "art": [
     ".hhhhhh.",
     "hhhhhhhh",
