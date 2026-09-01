@@ -1,8 +1,8 @@
 {
- "generated": "2026-08-31T14:25:26Z",
+ "generated": "2026-09-01T12:01:04Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 41,
+ "count": 43,
  "mods": [
   {
    "repo": "organs-mod",
@@ -73,7 +73,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/pearlcannon-mod/releases/download/v1.0.1/pearlcannon-1.0.1.jar",
-    "downloads": 0,
+    "downloads": 2,
     "name": "pearlcannon-1.0.1.jar"
    },
    "modrinth": null
@@ -372,6 +372,54 @@
     "Lessons"
    ],
    "github": "https://github.com/Elduin-Labs/edubots",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "pigaaaaaaaaaa",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "Press F7 to crawl on your belly, anywhere \u2014 no trapdoor needed.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/pigaaaaaaaaaa",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "pocket-crafting",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Craft anything without a crafting table. Press a key and the full 3x3 grid opens wherever you are.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/pocket-crafting",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -839,7 +887,7 @@
    "title": "Ride Pig",
    "cat": "mobs",
    "kind": "Mob change",
-   "desc": "Right-click any pig to ride it \u2014 no saddle needed. Steer with WASD, jump with space, and you get an unbreakable carrot on a stick every time you log in to make the pig run.",
+   "desc": "Right-click any pig to ride it \u2014 no saddle needed. Steer with WASD, jump with space, hold sprint to run, and you get an unbreakable carrot on a stick every time you log in to make\u2026",
    "art": [
     ".hhhhhh.",
     "hhhhhhhh",
