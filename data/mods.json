@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-02T11:44:01Z",
+ "generated": "2026-09-03T11:43:09Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 43,
+ "count": 45,
  "mods": [
   {
    "repo": "organs-mod",
@@ -36,7 +36,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/organs-mod/releases/download/v1.1.0/organs-1.1.0.jar",
-    "downloads": 1,
+    "downloads": 2,
     "name": "organs-1.1.0.jar"
    },
    "modrinth": null
@@ -73,7 +73,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/pearlcannon-mod/releases/download/v1.0.1/pearlcannon-1.0.1.jar",
-    "downloads": 2,
+    "downloads": 3,
     "name": "pearlcannon-1.0.1.jar"
    },
    "modrinth": null
@@ -110,7 +110,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/ringbongos-mod/releases/download/v1.0.0/ringbongos-1.0.0.jar",
-    "downloads": 2,
+    "downloads": 3,
     "name": "ringbongos-1.0.0.jar"
    },
    "modrinth": null
@@ -140,6 +140,30 @@
     "Client only"
    ],
    "github": "https://github.com/Elduin-Labs/twod-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "aethermakeportal",
+   "title": "Aethermakeportal",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Adds the Aether. Build a frame out of glowstone, splash one water bucket on it, and walk into the sky.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/aethermakeportal",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -650,6 +674,30 @@
     "Chickens"
    ],
    "github": "https://github.com/Elduin-Labs/lavachicken",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "mace-blast",
+   "title": "Mace Blast",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Land with a mace and it fires you into the sky. Plus every enchantment goes up to 255, on anything you like.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/mace-blast",
    "stars": 0,
    "release": null,
    "jar": null,
