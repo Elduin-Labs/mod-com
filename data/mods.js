@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-05T10:55:30Z",
+ "generated": "2026-09-06T11:21:24Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 45,
+ "count": 46,
  "mods": [
   {
    "repo": "organs-mod",
@@ -444,6 +444,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/pocket-crafting",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "the-gauntlet",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "The Infinity Gauntlet. Craft the glove, collect all six stones, and snap.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/the-gauntlet",
    "stars": 0,
    "release": null,
    "jar": null,
