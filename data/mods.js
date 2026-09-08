@@ -1,5 +1,5 @@
 window.MOD_DATA = {
- "generated": "2026-09-07T13:01:32Z",
+ "generated": "2026-09-08T11:44:27Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
  "count": 46,
