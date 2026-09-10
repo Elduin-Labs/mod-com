@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-09T11:51:10Z",
+ "generated": "2026-09-10T11:49:31Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 46,
+ "count": 48,
  "mods": [
   {
    "repo": "organs-mod",
@@ -396,6 +396,30 @@ window.MOD_DATA = {
     "Lessons"
    ],
    "github": "https://github.com/Elduin-Labs/edubots",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "mob-morph",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "Press B, pick a mob you have killed, and turn into it. Blaze, ghast and bee can fly.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/mob-morph",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -1094,6 +1118,30 @@ window.MOD_DATA = {
     "Silly"
    ],
    "github": "https://github.com/Elduin-Labs/spinning-cow",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "subscribe",
+   "title": "Subscribe",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "Kill one pig, get about a hundred million porkchops, and watch Minecraft fall over. A data pack for 1.21.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/subscribe",
    "stars": 0,
    "release": null,
    "jar": null,
