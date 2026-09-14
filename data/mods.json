@@ -1,9 +1,41 @@
 {
- "generated": "2026-09-13T12:16:58Z",
+ "generated": "2026-09-14T13:21:25Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 48,
+ "count": 49,
  "mods": [
+  {
+   "repo": "cell-phone",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A cell phone. Villagers call you, and when you pick up they talk in villager hmms, with the real words written on the screen.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/cell-phone",
+   "stars": 0,
+   "release": {
+    "tag": "v1.0.0",
+    "url": "https://github.com/Elduin-Labs/cell-phone/releases/tag/v1.0.0",
+    "published": "2026-09-14T01:40:31Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/cell-phone/releases/download/v1.0.0/cell_phone-1.0.0-fabric%2B1.21.11.jar",
+    "downloads": 1,
+    "name": "cell_phone-1.0.0-fabric+1.21.11.jar"
+   },
+   "modrinth": null
+  },
   {
    "repo": "organs-mod",
    "title": "Organs",
