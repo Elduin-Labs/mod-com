@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-17T12:05:55Z",
+ "generated": "2026-09-18T11:49:15Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 49,
+ "count": 50,
  "mods": [
   {
    "repo": "cell-phone",
@@ -33,6 +33,38 @@ window.MOD_DATA = {
     "url": "https://github.com/Elduin-Labs/cell-phone/releases/download/v1.0.0/cell_phone-1.0.0-fabric%2B1.21.11.jar",
     "downloads": 1,
     "name": "cell_phone-1.0.0-fabric+1.21.11.jar"
+   },
+   "modrinth": null
+  },
+  {
+   "repo": "weird-mobs",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A mod full of weird mobs. The first one is the OKIE - a robot that teaches you how to spell.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/weird-mobs",
+   "stars": 0,
+   "release": {
+    "tag": "v1.1.0",
+    "url": "https://github.com/Elduin-Labs/weird-mobs/releases/tag/v1.1.0",
+    "published": "2026-09-17T20:41:53Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/weird-mobs/releases/download/v1.1.0/weird_mobs-1.1.0-fabric%2B1.21.4.jar",
+    "downloads": 1,
+    "name": "weird_mobs-1.1.0-fabric+1.21.4.jar"
    },
    "modrinth": null
   },
