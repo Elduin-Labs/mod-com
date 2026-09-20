@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-19T11:32:39Z",
+ "generated": "2026-09-20T11:48:36Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 50,
+ "count": 51,
  "mods": [
   {
    "repo": "cell-phone",
@@ -508,6 +508,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/pigaaaaaaaaaa",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "planets-mod",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Space, with real planets. Build a rocket, fly up, and land on the Moon, Mars and more.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/planets-mod",
    "stars": 0,
    "release": null,
    "jar": null,
