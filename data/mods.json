@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-20T11:48:36Z",
+ "generated": "2026-09-21T13:21:56Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 51,
+ "count": 52,
  "mods": [
   {
    "repo": "cell-phone",
@@ -31,8 +31,40 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/cell-phone/releases/download/v1.0.0/cell_phone-1.0.0-fabric%2B1.21.11.jar",
-    "downloads": 1,
+    "downloads": 2,
     "name": "cell_phone-1.0.0-fabric+1.21.11.jar"
+   },
+   "modrinth": null
+  },
+  {
+   "repo": "planets-mod",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Space, with real planets. Build a rocket, fly up, and land on the Moon, Mars and more.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/planets-mod",
+   "stars": 0,
+   "release": {
+    "tag": "2.0",
+    "url": "https://github.com/Elduin-Labs/planets-mod/releases/tag/2.0",
+    "published": "2026-09-20T17:46:21Z"
+   },
+   "jar": {
+    "url": "https://github.com/Elduin-Labs/planets-mod/releases/download/2.0/planets-2.0-fabric%2B1.21.1.jar",
+    "downloads": 0,
+    "name": "planets-2.0-fabric+1.21.1.jar"
    },
    "modrinth": null
   },
@@ -63,7 +95,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/weird-mobs/releases/download/v1.1.0/weird_mobs-1.1.0-fabric%2B1.21.4.jar",
-    "downloads": 1,
+    "downloads": 2,
     "name": "weird_mobs-1.1.0-fabric+1.21.4.jar"
    },
    "modrinth": null
@@ -466,6 +498,30 @@
    "modrinth": null
   },
   {
+   "repo": "elduin-emojis",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Type a code like :red: in Minecraft chat and a little picture of Elduin's face pops up, in nine colors.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/elduin-emojis",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "mob-morph",
    "title": "Elduin",
    "cat": "mobs",
@@ -508,30 +564,6 @@
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/pigaaaaaaaaaa",
-   "stars": 0,
-   "release": null,
-   "jar": null,
-   "modrinth": null
-  },
-  {
-   "repo": "planets-mod",
-   "title": "Elduin",
-   "cat": "world",
-   "kind": "Fabric mod",
-   "desc": "Space, with real planets. Build a rocket, fly up, and land on the Moon, Mars and more.",
-   "art": [
-    "iiiiiiii",
-    "gggggggg",
-    "dddddddd",
-    "dddddddd",
-    "uuuuuuuu",
-    "uukuuuuu",
-    "uuuuuuuu",
-    "uuuuukuu"
-   ],
-   "versions": [],
-   "tags": [],
-   "github": "https://github.com/Elduin-Labs/planets-mod",
    "stars": 0,
    "release": null,
    "jar": null,
