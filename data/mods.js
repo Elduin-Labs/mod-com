@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-21T13:21:56Z",
+ "generated": "2026-09-22T12:02:49Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 52,
+ "count": 53,
  "mods": [
   {
    "repo": "cell-phone",
@@ -31,7 +31,7 @@ window.MOD_DATA = {
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/cell-phone/releases/download/v1.0.0/cell_phone-1.0.0-fabric%2B1.21.11.jar",
-    "downloads": 2,
+    "downloads": 3,
     "name": "cell_phone-1.0.0-fabric+1.21.11.jar"
    },
    "modrinth": null
@@ -63,7 +63,7 @@ window.MOD_DATA = {
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/planets-mod/releases/download/2.0/planets-2.0-fabric%2B1.21.1.jar",
-    "downloads": 0,
+    "downloads": 1,
     "name": "planets-2.0-fabric+1.21.1.jar"
    },
    "modrinth": null
@@ -95,7 +95,7 @@ window.MOD_DATA = {
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/weird-mobs/releases/download/v1.1.0/weird_mobs-1.1.0-fabric%2B1.21.4.jar",
-    "downloads": 2,
+    "downloads": 3,
     "name": "weird_mobs-1.1.0-fabric+1.21.4.jar"
    },
    "modrinth": null
@@ -492,6 +492,30 @@ window.MOD_DATA = {
     "Lessons"
    ],
    "github": "https://github.com/Elduin-Labs/edubots",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "claude-friend",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "A friend called Claude who follows you, talks out loud in a calm voice, and does what you ask in chat.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/claude-friend",
    "stars": 0,
    "release": null,
    "jar": null,
