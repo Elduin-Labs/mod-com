@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-22T12:02:49Z",
+ "generated": "2026-09-23T12:10:07Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
  "count": 53,
@@ -63,7 +63,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/planets-mod/releases/download/2.0/planets-2.0-fabric%2B1.21.1.jar",
-    "downloads": 1,
+    "downloads": 2,
     "name": "planets-2.0-fabric+1.21.1.jar"
    },
    "modrinth": null
@@ -206,7 +206,7 @@
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/ringbongos-mod/releases/download/v1.0.0/ringbongos-1.0.0.jar",
-    "downloads": 3,
+    "downloads": 4,
     "name": "ringbongos-1.0.0.jar"
    },
    "modrinth": null
