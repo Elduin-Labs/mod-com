@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-25T12:14:35Z",
+ "generated": "2026-09-26T11:47:52Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 53,
+ "count": 54,
  "mods": [
   {
    "repo": "cell-phone",
@@ -636,6 +636,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/the-gauntlet",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "wolf-control",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Summon wolves that stand perfectly still, and a detector that wraps every wolf nearby in a giant orange box.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/wolf-control",
    "stars": 0,
    "release": null,
    "jar": null,
