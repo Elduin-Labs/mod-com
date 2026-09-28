@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-27T12:27:22Z",
+ "generated": "2026-09-28T14:28:49Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 54,
+ "count": 55,
  "mods": [
   {
    "repo": "cell-phone",
@@ -540,6 +540,30 @@
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/elduin-emojis",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "gravity-boots",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "Boots that stick you to any surface. Walk off the edge of an End island, down the side, and along the bottom.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/gravity-boots",
    "stars": 0,
    "release": null,
    "jar": null,
