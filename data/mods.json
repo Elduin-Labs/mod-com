@@ -1,8 +1,8 @@
 {
- "generated": "2026-09-29T13:20:01Z",
+ "generated": "2026-09-30T13:00:52Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 55,
+ "count": 56,
  "mods": [
   {
    "repo": "cell-phone",
@@ -1025,6 +1025,30 @@
     "Weapon"
    ],
    "github": "https://github.com/Elduin-Labs/nunchuckets-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "minecraft-posteffect-screenshot-bug",
+   "title": "Minecraft Posteffect Screenshot Bug",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "A bug Elduin found in Minecraft 26.3: post effects don't show up in F2 screenshots",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/minecraft-posteffect-screenshot-bug",
    "stars": 0,
    "release": null,
    "jar": null,
