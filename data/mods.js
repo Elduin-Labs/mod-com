@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-09-30T13:00:52Z",
+ "generated": "2026-10-01T13:54:21Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 56,
+ "count": 58,
  "mods": [
   {
    "repo": "cell-phone",
@@ -546,6 +546,30 @@ window.MOD_DATA = {
    "modrinth": null
   },
   {
+   "repo": "elduin-portal",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Build a glowstone portal, light it with flint and steel, and walk through to the cheese Moon.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/elduin-portal",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "gravity-boots",
    "title": "Elduin",
    "cat": "mobs",
@@ -588,6 +612,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/mob-morph",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "muddy-pig",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "The Muddy Pig from Minecraft Earth is back. It looks for mud, jumps in, and rolls around until it is all muddy again.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/muddy-pig",
    "stars": 0,
    "release": null,
    "jar": null,
