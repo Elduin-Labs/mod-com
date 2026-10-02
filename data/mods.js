@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-01T13:54:21Z",
+ "generated": "2026-10-02T13:11:34Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 58,
+ "count": 63,
  "mods": [
   {
    "repo": "cell-phone",
@@ -498,6 +498,54 @@ window.MOD_DATA = {
    "modrinth": null
   },
   {
+   "repo": "apple-juice-boom",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "A juice box of apple juice. Shift-click it and it fizzes, the whole sky explodes, and your game crashes for real.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/apple-juice-boom",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "baby-clock",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A clock that turns you into a baby. Every tick you get smaller, your mouth hangs open, and you drool all over yourself.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/baby-clock",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "claude-friend",
    "title": "Elduin",
    "cat": "world",
@@ -570,6 +618,54 @@ window.MOD_DATA = {
    "modrinth": null
   },
   {
+   "repo": "elduins-head",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "A glowstone portal you fill with a water bucket. It takes you inside Elduin's head, where you can see his giant brain. Do it again to go home to your bed.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/elduins-head",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "fancy-title",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Makes the Minecraft title screen fancier: the Java Edition words are gone and shiny sparkles twinkle around the logo.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/fancy-title",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "gravity-boots",
    "title": "Elduin",
    "cat": "mobs",
@@ -588,6 +684,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/gravity-boots",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "minecraft",
+   "title": "Elduin",
+   "cat": "blocks",
+   "kind": "Fabric mod",
+   "desc": "A Minecraft mod with a fun new block and item idea.",
+   "art": [
+    "dddddddd",
+    "dtttttdd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "ddtttttd",
+    "dddddddd"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/minecraft",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -812,7 +932,7 @@ window.MOD_DATA = {
     ".dkkkkd."
    ],
    "versions": [
-    "1.21"
+    "1.21.11"
    ],
    "tags": [
     "Spooky",
