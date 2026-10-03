@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-02T13:11:34Z",
+ "generated": "2026-10-03T12:02:04Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 63,
+ "count": 64,
  "mods": [
   {
    "repo": "cell-phone",
@@ -854,6 +854,34 @@ window.MOD_DATA = {
    "github": "https://github.com/Elduin-Labs/wolf-control",
    "stars": 0,
    "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "elduins-everything-pack",
+   "title": "Elduins Everything Pack",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Every mod Elduin has made, plus every optimization mod that works with them. Minecraft 1.21.11, Fabric.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/elduins-everything-pack",
+   "stars": 0,
+   "release": {
+    "tag": "v1.0.2",
+    "url": "https://github.com/Elduin-Labs/elduins-everything-pack/releases/tag/v1.0.2",
+    "published": "2026-10-03T04:56:12Z"
+   },
    "jar": null,
    "modrinth": null
   },
