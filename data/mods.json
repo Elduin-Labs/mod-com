@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-03T12:02:04Z",
+ "generated": "2026-10-04T12:52:05Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 64,
+ "count": 65,
  "mods": [
   {
    "repo": "cell-phone",
@@ -1501,6 +1501,30 @@
     "Silly"
    ],
    "github": "https://github.com/Elduin-Labs/spacelaunch-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "speedrun-server",
+   "title": "Speedrun Server",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Minecraft speedrun server with a live dashboard",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/speedrun-server",
    "stars": 0,
    "release": null,
    "jar": null,
