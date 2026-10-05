@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-04T12:52:05Z",
+ "generated": "2026-10-05T15:17:19Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 65,
+ "count": 66,
  "mods": [
   {
    "repo": "cell-phone",
@@ -828,6 +828,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/the-gauntlet",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "village-spawn",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "Every new world, you start standing in a village, like a busy server lobby.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/village-spawn",
    "stars": 0,
    "release": null,
    "jar": null,
