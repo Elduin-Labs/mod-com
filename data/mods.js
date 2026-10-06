@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-05T15:17:19Z",
+ "generated": "2026-10-06T13:38:22Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 66,
+ "count": 74,
  "mods": [
   {
    "repo": "cell-phone",
@@ -169,7 +169,7 @@ window.MOD_DATA = {
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/pearlcannon-mod/releases/download/v1.0.1/pearlcannon-1.0.1.jar",
-    "downloads": 3,
+    "downloads": 4,
     "name": "pearlcannon-1.0.1.jar"
    },
    "modrinth": null
@@ -347,6 +347,30 @@ window.MOD_DATA = {
     "Redstone"
    ],
    "github": "https://github.com/Elduin-Labs/bingbong-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "brick",
+   "title": "Brick",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Brick, a little brick person who lives on your screen and talks with you. An AI friend.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/brick",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -690,6 +714,54 @@ window.MOD_DATA = {
    "modrinth": null
   },
   {
+   "repo": "green-stick-figure",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Green, a green stick figure who walks around Minecraft.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/green-stick-figure",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "life-jacket",
+   "title": "Elduin",
+   "cat": "tools",
+   "kind": "Fabric mod",
+   "desc": "A bright orange life jacket. Wear it and you float on the water and can breathe in it.",
+   "art": [
+    "......ll",
+    ".....lll",
+    "....lll.",
+    "y..lll..",
+    ".y.ll...",
+    "..yl....",
+    ".d.y....",
+    "d......."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/life-jacket",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "minecraft",
    "title": "Elduin",
    "cat": "blocks",
@@ -804,6 +876,78 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/pocket-crafting",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "punch-pal",
+   "title": "Elduin",
+   "cat": "blocks",
+   "kind": "Fabric mod",
+   "desc": "A friend who looks like a player. It runs up and punches you 255 blocks away, and you land safely.",
+   "art": [
+    "dddddddd",
+    "dtttttdd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "ddtttttd",
+    "dddddddd"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/punch-pal",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "red-stick-figure",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Red, a red stick figure with no face who walks around Minecraft.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/red-stick-figure",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "robo-buddy",
+   "title": "Elduin",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A little blue robot buddy. Hit it and it says Don't delete me! I'm Elduin's friend! and goes flying.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/robo-buddy",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -933,6 +1077,30 @@ window.MOD_DATA = {
     "Glass"
    ],
    "github": "https://github.com/Elduin-Labs/glasshead",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "green",
+   "title": "Green",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A green stick figure who walks along the bottom of your screen.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/green",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -1409,6 +1577,30 @@ window.MOD_DATA = {
     "Old style"
    ],
    "github": "https://github.com/Elduin-Labs/oldswing-mod",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "red",
+   "title": "Red",
+   "cat": "mobs",
+   "kind": "Fabric mod",
+   "desc": "A red stick figure who walks along the bottom of your screen.",
+   "art": [
+    "........",
+    ".gggggg.",
+    "gggggggg",
+    "gkkggkkg",
+    "gggggggg",
+    "gkkkkkkg",
+    ".gggggg.",
+    "..g..g.."
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/red",
    "stars": 0,
    "release": null,
    "jar": null,
