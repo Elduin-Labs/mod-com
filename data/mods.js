@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-06T13:38:22Z",
+ "generated": "2026-10-07T13:56:53Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 74,
+ "count": 77,
  "mods": [
   {
    "repo": "cell-phone",
@@ -63,7 +63,7 @@ window.MOD_DATA = {
    },
    "jar": {
     "url": "https://github.com/Elduin-Labs/planets-mod/releases/download/2.0/planets-2.0-fabric%2B1.21.1.jar",
-    "downloads": 2,
+    "downloads": 3,
     "name": "planets-2.0-fabric+1.21.1.jar"
    },
    "modrinth": null
@@ -406,6 +406,30 @@ window.MOD_DATA = {
    "modrinth": null
   },
   {
+   "repo": "claude-popup",
+   "title": "Claude Popup",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "A data pack where Claude pops up in every new world",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/claude-popup",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
    "repo": "couch-mod",
    "title": "Couch Cushions",
    "cat": "blocks",
@@ -564,6 +588,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/baby-clock",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "butt-cheeks",
+   "title": "Elduin",
+   "cat": "blocks",
+   "kind": "Fabric mod",
+   "desc": "A squishy peach-colored block that bounces you like a slime block.",
+   "art": [
+    "dddddddd",
+    "dtttttdd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "dttttttd",
+    "ddtttttd",
+    "dddddddd"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/butt-cheeks",
    "stars": 0,
    "release": null,
    "jar": null,
@@ -1020,6 +1068,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/wolf-control",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "world-2d",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Minecraft in 2D: a flat side view where you can see yourself and punch right through trees.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/world-2d",
    "stars": 0,
    "release": null,
    "jar": null,
