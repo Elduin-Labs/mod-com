@@ -1,8 +1,8 @@
 window.MOD_DATA = {
- "generated": "2026-10-08T14:02:44Z",
+ "generated": "2026-10-09T13:46:58Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 77,
+ "count": 78,
  "mods": [
   {
    "repo": "cell-phone",
@@ -780,6 +780,30 @@ window.MOD_DATA = {
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/green-stick-figure",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "jump-log",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Jump twice in the air, and a Bounce Log that launches you high into the sky.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/jump-log",
    "stars": 0,
    "release": null,
    "jar": null,
