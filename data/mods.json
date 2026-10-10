@@ -1,8 +1,8 @@
 {
- "generated": "2026-10-09T13:46:58Z",
+ "generated": "2026-10-10T13:03:58Z",
  "org": "Elduin-Labs",
  "modrinth_user": "ItsElduin",
- "count": 78,
+ "count": 79,
  "mods": [
   {
    "repo": "cell-phone",
@@ -636,6 +636,30 @@
    "versions": [],
    "tags": [],
    "github": "https://github.com/Elduin-Labs/claude-friend",
+   "stars": 0,
+   "release": null,
+   "jar": null,
+   "modrinth": null
+  },
+  {
+   "repo": "deep-dungeons",
+   "title": "Elduin",
+   "cat": "world",
+   "kind": "Fabric mod",
+   "desc": "Dungeon loot, monsters, bosses and dungeons to explore, inspired by Minecraft Dungeons.",
+   "art": [
+    "iiiiiiii",
+    "gggggggg",
+    "dddddddd",
+    "dddddddd",
+    "uuuuuuuu",
+    "uukuuuuu",
+    "uuuuuuuu",
+    "uuuuukuu"
+   ],
+   "versions": [],
+   "tags": [],
+   "github": "https://github.com/Elduin-Labs/deep-dungeons",
    "stars": 0,
    "release": null,
    "jar": null,
